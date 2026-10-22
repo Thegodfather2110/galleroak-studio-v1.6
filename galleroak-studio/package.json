@@ -1,0 +1,16 @@
+{
+  "name": "galleroak-studio",
+  "version": "1.6.0",
+  "description": "GallerOak Studio, a gallery of AI tools. Local AI workspace for OmniRoute: chat, reasoning, coding, website and app builders, REA reverse engineering (MCP), connectors (MCP servers models can use), voice with holographic 3D faces for every combo, video, ComfyUI image and video generation, App Chatbot gateway for your apps (Hindi, Hinglish, English), arena, skills, web search, agent computer, multi-model team, AutoTune and STM. Zero dependencies.",
+  "private": true,
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/run-tests.js && node test/comfy-tests.js",
+    "test:comfy": "node test/comfy-tests.js"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0a0a0a"/><rect x=".75" y=".75" width="62.5" height="62.5" rx="13.4" fill="none" stroke="#3a3a3a" stroke-width="1.5"/><g color="#f4f4f2" transform="translate(5 5) scale(.84)"><g transform="translate(2.56 2.9) scale(.92)">
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="3.2"><path d="M32 26 C 25 29, 19.387069721924107 34.86646329649038, 10.39 33.87"/><path d="M32 26 C 28 24, 24.807741963925945 13.159502981353185, 18.81 7.16"/><path d="M32 26 L 32 3"/><path d="M32 26 C 36 24, 39.19225803607406 13.159502981353189, 45.19 7.16"/><path d="M32 26 C 39 29, 44.61293027807589 34.86646329649038, 53.61 33.87"/></g>
+    <path d="M32 28 L32 45" stroke-width="5.2"/>
+    <g stroke-width="2.8"><path d="M32 43 C 29 50, 22 53, 15 54"/><path d="M32 43 L32 60"/><path d="M32 43 C 35 50, 42 53, 49 54"/></g>
+  </g>
+  <g fill="currentColor"><circle cx="10.39" cy="33.87" r="4.4"/><circle cx="18.81" cy="7.16" r="4.4"/><circle cx="32" cy="3" r="4.4"/><circle cx="45.19" cy="7.16" r="4.4"/><circle cx="53.61" cy="33.87" r="4.4"/><path d="M32 18.6 L39.4 26 L32 33.4 L24.6 26 Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></g>
+  <path d="M32 22.8 Q32.5 25.5 35.2 26 Q32.5 26.5 32 29.2 Q31.5 26.5 28.8 26 Q31.5 25.5 32 22.8 Z" fill="#0a0a0a"/></g></g></svg>
